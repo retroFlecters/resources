@@ -1,4 +1,4 @@
 # Resources
 
-[View the Learning Resouces Wiki](https://github.com/retroFlecters/resources/wiki)
+[View the Resouces Wiki](https://github.com/retroFlecters/resources/wiki)
 
